@@ -1,0 +1,1 @@
+The file simple torch model training setup python file (train_model.py) performs agglomerative clustering. The program has been optimized using using numpy and comments are used to demonstrate thw working of code.
